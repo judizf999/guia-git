@@ -15,3 +15,23 @@ cd guia-git
 
 # Si quieres usar la línea de comando:
 curl https://raw.githubusercontent.com/usuario/repo/main/README.md > README.md
+# Verifica el estado
+git status
+
+# Deberías ver algo como:
+# On branch main
+# Changes not staged for commit:
+#   (use "git add <file>..." to update)
+#   modified:   README.md
+
+# Preparar el archivo
+git add README.md
+
+# Ver el staging
+git status
+
+# Crear el commit
+git commit -m "Agregar guía completa de primeros pasos con Git"
+
+# Verificar que todo está guardado
+git status
