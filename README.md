@@ -35,3 +35,9 @@ git commit -m "Agregar guía completa de primeros pasos con Git"
 
 # Verificar que todo está guardado
 git status
+# Envía los cambios al servidor de GitHub
+git push origin main
+
+# Si te pide autenticación:
+# - GitHub Personal Access Token (recomendado)
+# - O SSH Key (más seguro)
