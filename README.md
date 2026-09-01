@@ -41,3 +41,9 @@ git push origin main
 # Si te pide autenticación:
 # - GitHub Personal Access Token (recomendado)
 # - O SSH Key (más seguro)
+# Instala GitHub CLI desde: cli.github.com
+
+# Autentica
+gh auth login
+
+# Sigue las instrucciones en el navegador
