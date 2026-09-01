@@ -2,7 +2,7 @@
 cd ~/Documentos
 
 # Clona el repositorio
-git clone https://github.com/TU_USUARIO/guia-git.git
+git clone https://github.com/judiz999/guia-git.git
 
 # Entra a la carpeta
 cd guia-git
